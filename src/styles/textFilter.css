@@ -1,0 +1,16 @@
+.filter-container {
+    width: 100%;
+    align-items: center;
+}
+
+.filter-input {
+    width: 100%;
+    border: none;
+    margin-bottom: 0.5em;
+}
+
+.black-line {
+    width: 90%;
+    border: 1px solid black;
+    margin-bottom: 1em;
+}

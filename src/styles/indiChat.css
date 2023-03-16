@@ -1,0 +1,28 @@
+.indi-chat-box {
+    width: 50%;
+    height: 25rem;
+    align-items: right;
+    border: 0.5px solid black;
+}
+.header {
+    height : 2rem;
+}
+.message-box {
+    height: 21rem;
+    background-color: #f1f3f6;
+}
+.footer {
+    height: 2rem;
+}
+
+.no-msg-text {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-line {
+    width: 100%;
+    border: 0.5px solid lightgray;
+}
